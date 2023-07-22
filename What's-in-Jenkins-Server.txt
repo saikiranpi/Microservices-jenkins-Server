@@ -1,8 +1,3 @@
-# microservices-msp-jenkins-server-latest
-Prepared for microservices-msp-jenkins-server-latest article
-
-What's in Jenkins Server:
-
 java-11,
 Jenkins,
 Git,
@@ -14,8 +9,8 @@ ansible,
 boto3,
 terraform
 SG-80,8080,22,
-Role, and
-Policies:
+Role ve
+Policy'ler:
 AmazonEC2ContainerRegistryFullAccess, 
 AWSCloudFormationFullAccess, 
 AdministratorAccess
