@@ -3,11 +3,11 @@ Prepared for microservices-msp-jenkins-server-latest article
 
 What's in Jenkins Server:
 
-Jenkins plugins
-Helm
-kubectl
-eksctl
-Maven
+Jenkins plugins,
+Helm,
+kubectl,
+eksctl,
+Maven,
 Java-11,
 Jenkins,
 Git,
