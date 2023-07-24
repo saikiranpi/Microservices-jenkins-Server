@@ -1,16 +1,24 @@
-java-11,
 Jenkins,
-Git,
+Jenkins plugins,
+Helm,
 Docker,
 Docker Compose,
+Ansible,
+Terraform,
+Git,
+kubectl,
+eksctl,
+Rancher CLI,
+Maven,
+Java-11,
 AWS CLI Version2,
-python 3,
-ansible,
-boto3,
-terraform
-SG-80,8080,22,
-Role ve
-Policy'ler:
+Python 3,
+Boto3,
+SecurityGroup-80,8080,22,
+Necessary Role and Policies:
+AmazonEC2ContainerRegistryFullAccess, 
+AWSCloudFormationFullAccess, 
+AdministratorAccess
 AmazonEC2ContainerRegistryFullAccess, 
 AWSCloudFormationFullAccess, 
 AdministratorAccess
