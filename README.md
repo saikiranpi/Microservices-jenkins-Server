@@ -1,5 +1,5 @@
 # microservices-msp-jenkins-server-latest
-Prepared for microservices-msp-jenkins-server-latest article
+Prepared for microservices-jenkins-server-latest article
 
 What's in Jenkins Server:
 
