@@ -1,4 +1,4 @@
-# microservices-msp-jenkins-server-latest
+# microservices-jenkins-server
 Prepared for microservices-jenkins-server-latest article
 
 What's in Jenkins Server:
